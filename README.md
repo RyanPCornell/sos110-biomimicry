@@ -1,4 +1,4 @@
-# SOS 110 — Biomimicry Web Slideshow
+# SOS 110 Biomimicry Web Slideshow
 
 A click-through web lecture, "Biomimicry: Innovation Inspired by Nature" (8 slides), built from the
 *Biomimicry Resource Handbook* (D. Baumeister et al., Biomimicry 3.8, 2023). All content is paraphrased from that source.
